@@ -1,0 +1,20 @@
+body{
+	font-size: 20px;
+	div{
+		font-size: 10px;
+	}
+	color: blue;
+
+.block {
+
+	&_item {
+	}
+}
+.block {
+}
+.block_item {
+
+.red{
+	color: red; 
+}
+}
